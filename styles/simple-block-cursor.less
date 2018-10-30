@@ -1,0 +1,23 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.simple-block-cursor {
+
+}
+
+atom-text-editor.editor .cursors .cursor {
+    border: 1px solid white;
+    border-radius: 0px;
+    background: white !important;
+    opacity: 0.8 !important;
+    // -webkit-transition: -webkit-transform, .06s;
+    // transition:opacity 0.2s linear;
+}
+
+atom-text-editor .cursors {
+    mix-blend-mode: difference;
+    // mix-blend-mode: luminosity;
+}

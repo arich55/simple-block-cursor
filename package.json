@@ -1,0 +1,22 @@
+{
+  "name": "simple-block-cursor",
+  "main": "./lib/simple-block-cursor",
+  "version": "0.0.1",
+  "description": "Add a classic terminal style block cursor cursor to your workspace.",
+  "keywords": [
+    "cursor",
+    "block",
+    "vim",
+    "terminal"
+  ],
+  "activationCommands": {
+    "atom-workspace": "simple-block-cursor:toggle"
+  },
+  "repository": "https://github.com/atom/simple-block-cursor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
