@@ -9,8 +9,8 @@
     "vim",
     "terminal"
   ],
-  "activationCommands": {
-    "atom-workspace": "simple-block-cursor:toggle"
+  "deserializers": {
+    "SimpleBlockCursorState": "deserializeCursorState"
   },
   "repository": "https://github.com/atom/simple-block-cursor",
   "license": "MIT",
