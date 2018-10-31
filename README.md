@@ -1,5 +1,35 @@
 # simple-block-cursor package
 
-A short description of your package.
+# Simple Block Cursor
+Block cursor for Atom Editor :rocket:
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Simple block cursor will add a classic terminal style block cursor to your editor for a more traditional editor feel. This will work regardless of the theme or syntax highlighting you have installed.
+
+
+## Commands
+
+### `simple-block-cursor:toggle`
+
+This command toggles turning the block cursor on or off.
+
+## Shortcut
+
+### `Shift+Cmd+P` and select `Simple Block Cursor: Toggle`
+
+
+
+## Contribute
+
+Have other neat ideas for cursor customization? Found a bug?
+
+1. :fork_and_knife: Fork the repo
+2. :rocket: Make awesome things happen
+3. :octocat: Create a pull request
+
+Or [create a new issue](https://github.com/arich55/simple-block-cursor/issues/new) at the repository if you can't do it yourself.
+
+## License and credits
+
+&copy; 2018 Andre Richards<br/>
+Maintainer: [Andre Richards](http://www.andrerichards.com)<br/>
+[MIT license](LICENSE.md)
