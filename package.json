@@ -12,7 +12,7 @@
   "deserializers": {
     "SimpleBlockCursorState": "deserializeCursorState"
   },
-  "repository": "https://github.com/atom/simple-block-cursor",
+  "repository": "https://github.com/arich55/simple-block-cursor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
