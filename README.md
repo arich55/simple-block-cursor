@@ -3,6 +3,8 @@
 # Simple Block Cursor
 Block cursor for Atom Editor :rocket:
 
+![Simple Block Cursor](https://raw.githubusercontent.com/arich55/simple-block-cursor/master/demonstration.gif)
+
 Simple block cursor will add a classic terminal style block cursor to your editor for a more traditional editor feel. This will work regardless of the theme or syntax highlighting you have installed.
 
 
