@@ -2,7 +2,7 @@
   "name": "simple-block-cursor",
   "main": "./lib/simple-block-cursor",
   "version": "0.6.0",
-  "description": "Add a classic terminal style block cursor cursor to your workspace.",
+  "description": "Add a classic terminal style block cursor to your workspace.",
   "keywords": [
     "cursor",
     "block",

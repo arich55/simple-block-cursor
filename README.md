@@ -23,10 +23,7 @@ This command toggles turning the block cursor on or off.
 ## Contribute
 
 Have other neat ideas for cursor customization? Found a bug?
-
-1. :fork_and_knife: Fork the repo
-2. :rocket: Make awesome things happen
-3. :octocat: Create a pull request
+Feel free to fork the repo or create a pull request.
 
 Or [create a new issue](https://github.com/arich55/simple-block-cursor/issues/new) at the repository if you can't do it yourself.
 
